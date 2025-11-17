@@ -32,20 +32,20 @@ const Home = () => {
   const testimonials = [
     {
       name: "snake",
-      role: "Pagante do desenvolvedor - Empresário",
-      content: "irei pagar muito por esse site",
+      role: "Nada a declarar (iinfos do cargo da pessoa adcionar ou n opcional",
+      content: "Blblablabla",
       rating: 5
     },
     {
       name: "snake",
-      role: "Pagante do desenvolvedor - Empresário",
-      content: "irei pagar muito por esse site",
+      role: "Nada a declarar (iinfos do cargo da pessoa adcionar ou n opcional",
+      content: "Blblablabla",
       rating: 5
     },
     {
       name: "snake",
-      role: "Pagante do desenvolvedor - Empresário",
-      content: "irei pagar muito por esse site",
+      role: "Nada a declarar (iinfos do cargo da pessoa adcionar ou n opcional",
+      content: "Blblablabla",
       rating: 5
     }
   ]
