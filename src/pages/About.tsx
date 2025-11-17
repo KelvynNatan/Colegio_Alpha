@@ -92,16 +92,19 @@ const About = () => {
               </h2>
               <div className="space-y-6 text-gray-600 leading-relaxed">
                 <p>
-                  Texto impactante
+                  O Colégio Alpha nasceu da realização de um sonho, o sonho de transformar vidas por meio da educação.
+Após mais de 15 anos dedicados ao ensino, vivenciando de perto os desafios e as belezas da educação brasileira, surgiu em nosso fundador um profundo desejo: fazer a diferença.
                 </p>
                 <p>
-                  texto impactante
+                  Mais do que uma escola, o Colégio Alpha foi idealizado como um projeto de propósito, construído sobre princípios e valores que acreditamos serem essenciais para a formação de cidadãos conscientes, éticos e preparados para o futuro.
                 </p>
                 <p>
-                  texto impactante
+                  Aqui, cada aluno é visto como único, e a aprendizagem vai além dos livros, ela acontece na convivência, no respeito, na fé, na responsabilidade e no amor pelo conhecimento.
                 </p>
                 <p>
-                  texto impactante
+                  Com uma equipe comprometida e um ambiente acolhedor, seguimos firmes na missão de educar com excelência, inspirando nossos alunos a sonhar alto, acreditar no seu potencial e se tornarem protagonistas de sua própria história.
+
+Colégio Alpha, Educação com propósito, valores e coração.
                 </p>
               </div>
             </motion.div>
