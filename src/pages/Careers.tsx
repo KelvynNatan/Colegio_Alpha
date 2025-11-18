@@ -395,7 +395,7 @@ const Careers = () => {
                         href="mailto:rh@colegioalpha.edu.br" 
                         className="text-yellow-600 font-medium hover:text-yellow-700 transition-colors"
                       >
-                        rh@colegioalpha.edu.br
+                        colocaremail.com
                       </a>
                     </div>
                     

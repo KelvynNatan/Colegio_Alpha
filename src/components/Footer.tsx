@@ -99,7 +99,7 @@ const Footer = () => {
               <li className="flex items-start space-x-3">
                 <MapPin className="w-5 h-5 text-yellow-400 mt-1 flex-shrink-0" />
                 <div>
-                  <p className="text-gray-300">Rua da snakesafadão, 123</p>
+                  <p className="text-gray-300">Rua da rua, 123</p>
                   <p className="text-gray-300">Centro - São Paulo, SP</p>
                   <p className="text-gray-300">CEP: 01234-567</p>
                 </div>
